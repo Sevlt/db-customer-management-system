@@ -1,6 +1,6 @@
 # 客户管理系统数据库
 
-[客户管理系统](https://)
+[客户管理系统](https://github.com/SEVLT/customer-management-system)
 
 ### 手动创建过程
 
