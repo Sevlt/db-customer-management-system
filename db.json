@@ -1,0 +1,74 @@
+{
+    "users": [
+        {
+            "name": "小孙",
+            "phone": "13567890000",
+            "email": "sun@gmail.com",
+            "education": "本科",
+            "school": "清华大学",
+            "profession": "软件开发工程师",
+            "profile": "我叫小孙",
+            "id": 1
+        },
+        {
+            "name": "小李",
+            "phone": "13567890000",
+            "email": "li@gmail.com",
+            "education": "本科",
+            "school": "清华大学",
+            "profession": "软件开发工程师",
+            "profile": "我叫小李",
+            "id": 2
+        },
+        {
+            "name": "小刘",
+            "phone": "13567890000",
+            "email": "liu@gmail.com",
+            "education": "本科",
+            "school": "清华大学",
+            "profession": "软件开发工程师",
+            "profile": "我叫小刘",
+            "id": 3
+        },
+        {
+            "name": "小赵",
+            "phone": "13567890000",
+            "email": "zhao@gmail.com",
+            "education": "本科",
+            "school": "清华大学",
+            "profession": "软件开发工程师",
+            "profile": "我叫小赵",
+            "id": 4
+        },
+        {
+            "name": "小王",
+            "phone": "13567890000",
+            "email": "wang@gmail.com",
+            "education": "本科",
+            "school": "清华大学",
+            "profession": "软件开发工程师",
+            "profile": "我叫小王",
+            "id": 5
+        },
+        {
+            "name": "小周",
+            "phone": "13567890000",
+            "email": "zhou@gmail.com",
+            "education": "本科",
+            "school": "清华大学",
+            "profession": "软件开发工程师",
+            "profile": "我叫小周",
+            "id": 6
+        },
+        {
+            "name": "小高",
+            "phone": "13567890000",
+            "email": "gao@gmail.com",
+            "education": "本科",
+            "school": "清华大学",
+            "profession": "软件开发工程师",
+            "profile": "我叫小高",
+            "id": 7
+        }
+    ]
+}
