@@ -32,3 +32,7 @@
     ```
     json-server --watch db.json
     ```
+-   启动
+    ```
+    npm run test
+    ```
